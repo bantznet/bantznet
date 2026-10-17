@@ -6,7 +6,10 @@ homelab tinkerer by night.
 ## What I'm up to
 - 🧪 **[mos-vm-images](https://github.com/bantznet/mos-vm-images)**: automated VM images of the
   [MOS](https://github.com/mos-nas/mos-releases) NAS operating system, so anyone can try it on Proxmox,
-  VirtualBox or VMware in a few minutes. Built and published by GitHub Actions whenever MOS releases a new version.
+  VirtualBox or VMware in a few minutes.
+
+- 🧪 **[mos-vm-skills](https://github.com/bantznet/mos-hermes-skills)**: skills for managing your MOS NAS server using Hermes Agent.
+  
 - Rebuilding my homelab. Always.
 
 ## In my lab
