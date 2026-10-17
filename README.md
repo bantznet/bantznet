@@ -19,6 +19,3 @@ that helps me run it all while still being super humble, and a 3D printing obses
 ## Things I care about
 - Boring, repeatable infrastructure: if a fix needs a second retry, the design is probably wrong.
 - Docs that you can copy-paste and that say honestly what's tested and what isn't.
-
-## Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jessicabantz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicabantz/)
