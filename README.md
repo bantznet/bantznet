@@ -8,7 +8,7 @@ homelab tinkerer by night.
   [MOS](https://github.com/mos-nas/mos-releases) NAS operating system, so anyone can try it on Proxmox,
   VirtualBox or VMware in a few minutes.
 
-- 🧪 **[mos-vm-skills](https://github.com/bantznet/mos-hermes-skills)**: skills for managing your MOS NAS server using Hermes Agent.
+- 🧪 **[mos-vm-skills](https://github.com/bantznet/mos-hermes-skills)**: skills for managing your [MOS](https://github.com/mos-nas/mos-releases) NAS server using Hermes Agent.
   
 - Rebuilding my homelab. Always.
 
